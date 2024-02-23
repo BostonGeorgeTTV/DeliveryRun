@@ -15,12 +15,12 @@ eng
 
 copy and past this in ox_inventory/data/items.lua
 
-['alcool'] = {
-    label = 'Whiskey di contrabbando',
-    weight = 100,
-    stack = true,
-    close = true,
-},
+['alcool'] = {<br>
+    label = 'Whiskey di contrabbando',<br>
+    weight = 100,<br>
+    stack = true,<br>
+    close = true,<br>
+},<br>
 
 copy and past the png in ox_inventory/web/images
 
@@ -32,12 +32,12 @@ ita
 
 copia e incolla questo in ox_inventory/data/items.lua
 
-['alcool'] = {
-    label = 'Whiskey di contrabbando',
-    weight = 100,
-    stack = true,
-    close = true,
-},
+['alcool'] = {<br>
+    label = 'Whiskey di contrabbando',<br>
+    weight = 100,<br>
+    stack = true,<br>
+    close = true,<br>
+},<br>
 
 copia e incolla la png in ox_inventory/web/images
 
