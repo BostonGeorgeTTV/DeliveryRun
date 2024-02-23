@@ -3,9 +3,13 @@
 Dependencies
 
 ESX : https://github.com/esx-framework/esx_core
+<hr>
 oxMysql : https://github.com/overextended/oxmysql
+<hr>
 ox_lib : https://github.com/overextended/ox_lib
+<hr>
 ox_inventory : https://github.com/overextended/ox_inventory
+<hr>
 
 eng
 
