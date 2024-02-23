@@ -1,5 +1,12 @@
 # DeliveryRun
 
+Dependencies
+
+ESX : https://github.com/esx-framework/esx_core
+oxMysql : https://github.com/overextended/oxmysql
+ox_lib : https://github.com/overextended/ox_lib
+ox_inventory : https://github.com/overextended/ox_inventory
+
 eng
 
 copy and past this in ox_inventory/data/items.lua
