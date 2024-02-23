@@ -42,3 +42,5 @@ copia e incolla questo in ox_inventory/data/items.lua
 copia e incolla la png in ox_inventory/web/images
 
 in config.lua modifica l'evento del dispatch polizia in base allo script dispatch che utilizzi
+
+https://www.youtube.com/watch?v=69U9DZB3c0Q
